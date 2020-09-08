@@ -2,20 +2,20 @@
 
 # AVRO
 
-Esecuzione test:
+# Esecuzione test:
 
 mvn verify
 
-#Esecuzione PIT:
+# Esecuzione PIT:
 
 mvn verify org.pitest:pitest-maven:mutationCoverage 
 
 # Bookkeeper
 
-Esecuzione test:
+# Esecuzione test:
 
 mvn verify
 
-#Esecuzione PIT:
+# Esecuzione PIT:
 
 mvn verify org.pitest:pitest-maven:mutationCoverage
