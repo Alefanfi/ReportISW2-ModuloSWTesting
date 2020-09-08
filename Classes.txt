@@ -1,0 +1,9 @@
+AVRO (Modulo Maven : lang/java/avro):
+
+org.apache.avro.io.BinaryData
+org.apache.avro.data.RecordBuilderBase
+
+BookKeeper (Modulo Maven : bookkeeper-server)
+
+org.apache.bookkeeper.bookie.Bookie
+org.apache.bookkeeper.bookie.BufferedChannel
