@@ -1,19 +1,21 @@
 # ReportISW2-ModuloSWTesting
 
-AVRO
+# AVRO
 
 Esecuzione test:
 
 mvn verify
-Esecuzione PIT, dal modulo java/lang/avro:
+
+#Esecuzione PIT:
 
 mvn verify org.pitest:pitest-maven:mutationCoverage 
 
-Bookkeeper
+# Bookkeeper
 
 Esecuzione test:
 
 mvn verify
-Esecuzione PIT, dal modulo bookkeeper-server:
+
+#Esecuzione PIT:
 
 mvn verify org.pitest:pitest-maven:mutationCoverage
